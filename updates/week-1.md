@@ -11,6 +11,10 @@
     + Completed modifying occurrences module, as occ.grid() and occ.tile() were left from PR#8 and PR#11.
 + Finsished updating mof response in occurrences.search() function.
     + passing `mof=True` and `hasextensions='MeasurementOrFact'` in the search() now yields a list of pandas DataFrame objects making it easier for users to make use of this data.
++ Wrote tests for module updates.
+    + Wrote tests for occurrence.search, tile, point, getpoints, and grid.
+    + Increased coverage of all modules to 100% and overall to 78%.
+    + Deleted obsolete functions from taxa module
 
 ### Tasks working on
 + Creating example usage for each module
