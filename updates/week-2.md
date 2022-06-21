@@ -1,4 +1,4 @@
-# Week 1
+# Week 2
 ## 20 to 26 Jun 2022
 + Weekly meet on 21 June.
     + **Agenda**:
