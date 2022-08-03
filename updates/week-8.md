@@ -1,4 +1,4 @@
-# Week 7
+# Week 8
 ## 1 August to 7 August 2022
 + Weekly meet on 2 August.
     + **Agenda**:
