@@ -13,9 +13,17 @@
 + Updated Jupyter Notebook - `depth_time_series.ipynb`
     + added an analysis of averaged depth for an order of species to make up for scarce data.
     + added another analysis to visualize the average deviation from mean depth in species in an `order`
+<<<<<<< HEAD
 + created setup.cfg, setup.py and pyproject.toml for the package
     + updated project details and added more fields like `project urls`
 
 ### Tasks working on
 + updating depth notebook
 + working on `MeasurementOrFacts Analysis.ipynb` notebook
+=======
++ Updated depth analysis notebook
++ Created `setup.cfg`, `pyproject.toml` and updated `setup.py`
+
+### Tasks working on
+working on OBIS use cases
+>>>>>>> 9d5cda3db3da08db0f9559accbed9123b881dc17
