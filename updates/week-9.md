@@ -7,9 +7,7 @@
         + suggest ideas for new analysis to bring in
 
 ### Tasks accomplished
-
++ completed MoF analysis notebook
 
 ### Tasks working on
-+ working on MoF analysis notebook
 + working on dataset contribution notebook
-+ working on species co-occurrence analysis
