@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/ayushanand18/GSoC_design_documents/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ayushanand18/GSoC_design_documents/actions/workflows/pages/pages-build-deployment)
+
 # GSoC Design Documents
 
 This repo contains all documents, notes and call agendas for pyobis revamp project for GSoC 2022.
