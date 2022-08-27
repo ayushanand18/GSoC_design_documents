@@ -19,8 +19,7 @@
         + Tests have also been updated. Wrote tests for new methods and an extensive testing to check whether returned url do really exist have been introduced. I believe this will make this package more robust.
         + Updating docs for all modules as per new feature updates.
 + finished writing `contributions_quantification.ipynb` notebook.
-    + completed analysis on how much dataset owners have contributed to the OBIS ecosystem
-    by publishing by
+    + completed analysis on how much dataset owners have contributed to the OBIS ecosystem by publishing by
         + temporal distribution analysis
         + spatial distribution analysis
         + taxonomic distribution analysis
