@@ -1,1 +1,4 @@
 markdown: kramdown
+title: GSoC Design Documents
+description: Design Documents for my 2022 GSoC project with IOOS (pyobis revamp)
+theme: jekyll-theme-cayman
