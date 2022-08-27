@@ -10,6 +10,7 @@ Source ever in your life.
 + [My Project](#my-project)
     + [Introduction](#introduction)
     + [Overview of the project](#overview-of-the-project)
++ [About me](#about-me)
 + [My tryst with Google Summer of Code 2022](#my-tryst-with-GSoC-2022)
 
 ## Before we start
@@ -51,6 +52,10 @@ During each step, I was motivated to do three things,
 
 During the course of my project I found many bugs, and issues, fixed them and got engaged in very 
 informative and interesting communications with the community.
+
+## About me
+Oh! The most interesting thing about me is that I am very boring. Still if you'd like to know
+more about me [LinkedIn](https://linkedin.com/in/theayushanand) and [GitHub](https://github.com/ayushanand18)
 
 ## My tryst with GSoC 2022
 Here is my tryst as Google Summer of Code 2022 participant with IOOS (Integrated Ocean Observing System).
