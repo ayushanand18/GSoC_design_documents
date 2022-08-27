@@ -1,6 +1,7 @@
 # Updates
 
-Weekly updates for GSoC project
+This space hosts weekly updates for the coding period, the community bonding period,
+ and the key takeaways from my experience with GSoC. 
 
 ## Community bonding period
 + [Community Bonding Period](community-bonding-period.md)
