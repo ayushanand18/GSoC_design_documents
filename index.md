@@ -6,11 +6,11 @@ weeks are so mesmerizing that you will never stop contributing to Open
 Source ever in your life.
 
 ## Table of Contents
-+ [Before we start](#Before-we-start)
-+ [My Project](#My-project)
++ [Before we start](#before-we-start)
++ [My Project](#my-project)
     + [Introduction](#introduction)
-    + [Overview of the project](#Overview-of-the-project)
-+ [My tryst with Google Summer of Code 2022](#My-tryst-with-GSoC-2022)
+    + [Overview of the project](#overview-of-the-project)
++ [My tryst with Google Summer of Code 2022](#my-tryst-with-GSoC-2022)
 
 ## Before we start
 Before we start talking about the project and the intricacies involved, there are people who deserve
