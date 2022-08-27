@@ -6,9 +6,9 @@ weeks are so mesmerizing that you will never stop contributing to Open
 Source ever in your life.
 
 ## Table of Contents
-+ [My Project](My-project)
-    + [Introduction](introduction)
-    + [Overview of the project](Overview-of-the-project)
++ [My Project](#My-project)
+    + [Introduction](#introduction)
+    + [Overview of the project](#Overview-of-the-project)
 ## My project
 > Making ocean biodiversity data easily accessible with python (pyobis revamp)
 
