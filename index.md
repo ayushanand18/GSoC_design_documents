@@ -1,3 +1,3 @@
-# GSoC 2022 with IOOS
+# Weekly updates
 
 [updates](updates)
