@@ -1,3 +1,3 @@
-# Weekly updates
+# GSoC Design Documents
 
 [updates](updates)
