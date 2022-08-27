@@ -11,7 +11,7 @@ Source ever in your life.
     + [Introduction](#introduction)
     + [Overview of the project](#overview-of-the-project)
 + [About me](#about-me)
-+ [My tryst with Google Summer of Code 2022](#my-tryst-with-GSoC-2022)
++ [My tryst with Google Summer of Code 2022](#my-tryst-with-gsoc-2022)
 
 ## Before we start
 Before we start talking about the project and the intricacies involved, there are people who deserve
