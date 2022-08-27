@@ -18,3 +18,6 @@ Weekly updates for GSoC project
 + [Week 10](week-10.md) Aug 15 - 21
 + [Week 11](week-11.md) Aug 22 - 28
 + [Week 12](week-12.md) June 29 - 30
+
+## Key takeways
++ [What GSoC taught me?](what-gsoc-taught-me.md)
