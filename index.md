@@ -6,9 +6,16 @@ weeks are so mesmerizing that you will never stop contributing to Open
 Source ever in your life.
 
 ## Table of Contents
++ [Before we start](#Before-we-start)
 + [My Project](#My-project)
     + [Introduction](#introduction)
     + [Overview of the project](#Overview-of-the-project)
++ [My tryst with Google Summer of Code 2022](#My-tryst-with-GSoC-2022)
+
+## Before we start
+Before we start talking about the project and the intricacies involved, there are people who deserve
+the first mentions!
+Thanks a ton to my mentors - **Tylar Murray** (@7yl4r), **Mathew Biddle
 ## My project
 > Making ocean biodiversity data easily accessible with python (pyobis revamp)
 
@@ -24,6 +31,20 @@ coastline. It is interesting to note that OBIS also holds data for species even 
 around 1078 AD, which makes pyobis even more essential to be maintained.
 
 ### Overview of the project
+Due to major changes in OBIS API over these years, `pyobis` package stopped functioning. My goal in this project
+was to get it back to a working stage and then carry on from there to implement new features and resolve issues.
+I also brought out interesting visualization and analysis using this package in my Jupyter Notebooks, and
+now they are a part of the official dev package to help researchers gets started with using it.
 
+During each step, I was motivated to do three things,
++ look at the package from the user's point of view and make it the most friendly as it could be
++ work on what hasn't been done before. Do something new everytime.
++ code, test, document, and repeat. It's an Open Source project and so my view must be as readable to 
+    the community as much as it can be
+
+During the course of my project I found many bugs, and issues, fixed them and got engaged in very 
+informative and interesting communications with the community.
+
+## My tryst with GSoC 2022
 Here is my tryst as Google Summer of Code 2022 participant with IOOS (Integrated Ocean Observing System).
 [updates](updates)
