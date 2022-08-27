@@ -15,7 +15,8 @@ Source ever in your life.
 ## Before we start
 Before we start talking about the project and the intricacies involved, there are people who deserve
 the first mentions!
-Thanks a ton to my mentors - **Tylar Murray** (@7yl4r), **Mathew Biddle** (@MathewBiddle), and **Filipe Fernandes** (@ocefpaf). They are so helpful that I never felt 
+Thanks a ton to my mentors - **Tylar Murray** (@7yl4r), **Mathew Biddle** (@MathewBiddle), and **Filipe Fernandes** (@ocefpaf). They are so helpful that my whole journey through GSoC was as amazing as it
+could ever be. 
 
 ## My project
 > Making ocean biodiversity data easily accessible with python (pyobis revamp)
