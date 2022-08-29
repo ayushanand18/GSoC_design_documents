@@ -59,5 +59,5 @@ more about me [LinkedIn](https://linkedin.com/in/theayushanand) and [GitHub](htt
 
 ## My tryst with GSoC 2022
 Here is my tryst as Google Summer of Code 2022 participant with IOOS (Integrated Ocean Observing System).
-+ You can see the weekly agendas, accomplishments and updates [ont his page](updates)
++ You can see the weekly agendas, accomplishments and updates [on this page](updates)
 
