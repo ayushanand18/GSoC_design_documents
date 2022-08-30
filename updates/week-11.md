@@ -12,7 +12,7 @@
     + A response class in each module has
         + an `__init__` function (to initialize but no specialized function to do
         + all existing functions as methods to the class
-        + `get_search_url` returns OBIS API URL for the query
+        + `get_search_url` returns OBIS API URL for the query. it is an inherited method from parent `OBISQueryResult` class.
         + some functions have `get_mapper_url` methods to get OBIS Mapper URL, we identify functions to show a mapper url using a `self.mapper` flag (if true for a method then it has a corresponding Mapper URL).
         + docstrings have also been updated
     + Additional Changes
@@ -24,9 +24,11 @@
         + spatial distribution analysis
         + taxonomic distribution analysis
         + MoF analysis
-+ updated the changelog and upgradded version for the package
++ updated the changelog and upgraded version for the package
     + also changed the `Development Status` to `4 - Beta` for PyPI
-
++ updating depth definition in docs through [#73](https://github.com/iobis/pyobis/pull/73)
+    + added units and direction to depth values and tries to remove ambiguity in the physical parameters being used to query from OBIS via pyobis. Directly resolved [#68](https://github.com/iobis/pyobis/issues/68)
+    
 ### Tasks working on
 + working on PRCRMP biodiversity notebook
     + recreating the map graphic

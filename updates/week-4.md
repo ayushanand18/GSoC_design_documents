@@ -7,7 +7,8 @@
 ### Tasks accomplished
 + Completing PR to get back changes that had to be reverted to resolve merge conflicts,
 + and get Tests working again
-+ Initiating a new PR for Contributing Guidelines
+    + tests now have 100% module coverage and 86% overall.
++ Initiated a new PR for Contributing Guidelines
 
 ### Tasks working on
 + Creating tutorial usage for occurrence and other modules
