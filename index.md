@@ -1,4 +1,4 @@
-# GSoC Design Documents
+# GSoC 2022 with IOOS
 
 Believe me, GSoC is an amazing experience every developer must have. 
 It not only helps you get into Open Source as a beginer but its twelve
