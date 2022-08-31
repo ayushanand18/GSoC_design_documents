@@ -41,6 +41,7 @@
         + write a blog post on your experience, the state you inherited and the state you'll be leaving.
             + inspo https://lohithmunakala.medium.com/seafloor-sampling-and-data-demo-center-jupyter-book-migration-gsoc21-ioos-a9930abc4c42
             + write the stumbling blocks, where did you feel stuck in your journey and how did you overcome?
+        + once we rename master -> main, can update the fork as in [here](https://github.com/ioos/ioos_code_lab/pull/20#issuecomment-918516941)
 
 ### Tasks accomplished
 + making changes to the `feature update` and iterating over feedback
@@ -48,6 +49,9 @@
     + created superclass `OBISQueryResult` and added some inherited functions which inherently common 
     in all other modules.
 + update `/docs/` after the feature update
+    + improved the documentation and examples
 
 ### Tasks working on
-+ adding `dna` field to `occurrences.search()` 
++ adding `dna` field to `occurrences.search()`
++ update the docstrings in module files.
++ change occ.search behaviour and bring in consistency by returning pandas dataframe only

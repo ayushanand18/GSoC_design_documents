@@ -1,0 +1,5 @@
+# what gsoc taught me?
+
+My summer of 2022 was filled with amazing adventures thanks to Google Summer of Code 2022. GSoC (or Google Summer of Code) has been a really great experience for me this year especially because I am a first-time GSoCer. Moreover, I applied to this program for the very first time in my life and fortunately got selected. I don't believe that my initial proposal was really great but it did the task it was made for. The project I have worked on is as cool as an icecream, and more exciting than a roller-coaster ride. 
+
+At the time of writing this blog, I am into the 12th week of my GSoC coding period. This means this is the last week of work and we need to gear up for the final submissions. It really hurts me to say that those cherished moments I lived through the whole summer are now past, and I would like to pen down my every thought, emotion, learning, and experience in this blog post. So, this is going to be huge if not long.
