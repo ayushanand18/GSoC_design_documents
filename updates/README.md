@@ -21,4 +21,6 @@ This space hosts weekly updates for the coding period, the community bonding per
 + [Week 12](week-12.md) Aug 29 - Sept 4
 
 ## Key takeways
-+ [What GSoC taught me?](what-gsoc-taught-me.md)
++ [What GSoC taught me?](./what-gsoc-taught-me-the-morning.md)
++ [Read this after you're done with the first](./the-afternoon.md)
++ [Read this after you're done with the other two](./the-evening.md)
