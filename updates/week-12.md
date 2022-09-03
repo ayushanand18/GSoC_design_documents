@@ -50,8 +50,9 @@
     in all other modules.
 + update `/docs/` after the feature update
     + improved the documentation and examples
++ update the docstrings in module files.
++ change occ.search behaviour and bring in consistency by returning pandas dataframe only
 
 ### Tasks working on
 + adding `dna` field to `occurrences.search()`
-+ update the docstrings in module files.
-+ change occ.search behaviour and bring in consistency by returning pandas dataframe only
++ writing the final blog

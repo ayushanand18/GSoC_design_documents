@@ -19,6 +19,7 @@ This space hosts weekly updates for the coding period, the community bonding per
 + [Week 10](week-10.md) Aug 15 - 21
 + [Week 11](week-11.md) Aug 22 - 28
 + [Week 12](week-12.md) Aug 29 - Sept 4
++ [The Final Week](the-final-week.md) Sept 5 - 11
 
 ## Key takeways
 + [What GSoC taught me?](./what-gsoc-taught-me-the-morning.md)
