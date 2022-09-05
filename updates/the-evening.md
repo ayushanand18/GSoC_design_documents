@@ -8,4 +8,4 @@ So, I have already talked a lot about most of the technical details of the proje
 + a. code, and
 + b. documentation. 
 
-The former we write too much that we get bored writing the latter. But the latter one is very crucial step in the software development process. 
+The former we write too much that we get bored writing the latter. But the latter one is very crucial step in the software development process. While contributing to an open source project if there's any critical thing after code, it is communication, documenting every change, every idea. And this is the most crucial part of GSoC. More than the project, GSoC focuses on building an ecosystem of open source developers, bringing more people into open source and help make it easy for beginners to get in. 
