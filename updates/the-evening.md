@@ -12,15 +12,14 @@ During the project, many times I felt really stuck at some point. I felt like wh
 
 My mentors have always been very very helpful. They held my hand everytime I asked for their help. Before introducing a new thing into the workflow they would make sure that I was friendly with the new change. If I had no previous experience with the feature, then they would give me brief yet great explainer every time. This made my journey so smooth. But I did face some critical challenges while building the package.
 
-+ One of the greatest challenges was building the package itself from a state where it was totally broken to a state where it is working nice, and the latest release into production. It was as if building the package from scratch. I had to clean up all previous obsolete functions, create new ones for the updated endpoints and cater to the new standards in building. It was a great learning experience overall.
++ One of the greatest challenges was building the package itself from a state where it was totally broken to a state where it is working nice, and the latest release into production. It was as if building the package from scratch. I had to clean up all previous obsolete functions, create new ones for the updated endpoints and cater to the new standards in building. To be honest it feels really too simple on paper but it was a huge task. The package underwent major upgrades twice during this period - and not just the code itself, ut the docs, notebooks, and examples all had to be changed. But, it was a great learning experience overall.
 
 + During my whole summer, I had my exams twice in three months. And just in the middle of the project I fell ill. I couldn't take up any work for almost a week. I communicate this news to my mentors. And they were so kind enough to drop any calls for a week and wished for my speedy recovery. I just couldn't get any better mentors.
 
-+ 
++ I was completely new to python packaging, and I really didn't know where to start at first. It was a lot of hit and trial during the application period with the package that I started to understand how it all worked. Thanks to my mentors who helped me throughout in many ways that I now understand the beauty and intricacies of python packaging. To be honest, it was fun!
 
++ I wasn't much acquainted to the GitHub workflow and getting used to was a bit tricky. But again thanks to my mentors especially @7yl4r, I just got so used to it. Opening PRs, creating issues, rebasing and merging feels so easy now.
+
+> Challenges do come and go by only when we hold our breath to the right time. 
 
 It is true that the 3 months you'll spend on your project won't just be about writing code and building softwares, it will also help you build your personality a lot. You will experience an exponential growth in not only your programming skills but also your communication skills. To summarize, Google Summer of Code is a never miss opportunity for sure!
-
-What were your hardships?
-How did you overcome them?
-Your stumbling blocks?
