@@ -1,8 +1,10 @@
-# Week 12
-## 29 August to 4 Sept 2022
-+ Weekly meet on 30 August.
+# Week 13
+## 5 August to 11 Sept 2022
++ Weekly meet on 6 Sept.
     + **Agenda**:
-        + I have one more task to do, just found that I forgot to add `dna` field to `occurrences.search()`
+        + which research avenues to chart into
+        + what else do we have?
+        + how should we communicate our work to the community?
 
 ### Tasks accomplished
 + create a future work issues,
