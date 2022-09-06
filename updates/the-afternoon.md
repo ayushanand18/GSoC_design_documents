@@ -22,9 +22,9 @@ This project is very closely aligned with my passion for conserving marine anima
 
 + **Some intriguing experiments and those doubts**. I have a habit, the habit of experimenting with things. I don't if this is good or terrible, but it keeps me interesting into things. I experimented a lot with the package I was rebuilding, the OBIS API, and the OBIS Mapper. And each time I used to monitor the network logs and look at what was actually being done in the background. To my surprise, I found so many endpoints and things that was not documented but was very very useful for us. So, I brought up issues for them and also suggested some crazy ideas. Part of which were accepted and the rest tabled on for further discussion. Open Source is all about communication, it's the pillar behind an amazing OSS.
 
-+ **The release**. Apart from those massive changes, we could also manage a release on GitHub. That was a great moment for us. Bringing the package to a shape, piece by piece, arranging and cleaning up all blocks and finally releasing the package so close to the heart is mesmerizing.
++ **The release**. Apart from those massive changes, we could also manage a release on both GitHub and PyPI. That was a great moment for us. Bringing the package to a shape, piece by piece, arranging and cleaning up all blocks and finally releasing the package so close to the heart is mesmerizing. 
 
-If you want to know about all the changes we had done, watch out for [the list of PRs opened by me](https://github.com/iobis/pyobis/pulls?q=is%3Apr+is%3Aclosed+author%3Aayushanand18). Interestingly, I opened 29 pull requests and still counting. You can also [checkout the release notes here](https://github.com/iobis/pyobis/releases/tag/1.2.4).
+If you want to know about all the changes we had done, watch out for [the list of PRs opened by me](https://github.com/iobis/pyobis/pulls?q=is%3Apr+is%3Aclosed+author%3Aayushanand18). Interestingly, I opened 29 pull requests and still counting. You can also [checkout the release notes here](https://github.com/iobis/pyobis/releases/tag/1.2.6).
 
 
 On top of this, I learnt some amazing development stuff, including:
