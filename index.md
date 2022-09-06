@@ -62,3 +62,4 @@ Here is my tryst as Google Summer of Code 2022 participant with IOOS (Integrated
 + [You can see the weekly agendas, accomplishments and updates on this page](updates)
 + [Here is the list of PRs opened by me](https://github.com/iobis/pyobis/pulls?q=is%3Apr+is%3Aclosed+author%3Aayushanand18). Interestingly, I opened 30 pull requests and still counting.
 + [The issues I opened](https://github.com/iobis/pyobis/issues?q=is%3Aopen+is%3Aclosed+author%3Aayushanand18+). To be precise, I opened 9 issues throughout the length of the project and worked on at least 27 of them directly.
++ [My experience and key takeaways](./updates/README.md#key-takeways)
