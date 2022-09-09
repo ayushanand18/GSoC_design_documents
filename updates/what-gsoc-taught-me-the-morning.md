@@ -1,5 +1,7 @@
 # What gsoc taught me?
 
+> Published on Medium.com [here](https://medium.com/@theayushanand/what-did-google-summer-of-code-2022-teach-me-133431877d25)
+
 My summer of 2022 was filled with amazing adventures thanks to Google Summer of Code 2022. GSoC (or Google Summer of Code) has been a really great experience for me this year especially because I am a first-time GSoCer. Moreover, I applied to this program for the very first time in my life and fortunately got selected. I don't believe that my initial proposal was really great but it did the task it was made for. The project I have worked on is as cool as ice cream and more exciting than a roller-coaster ride. 
 
 At the time of writing this blog, I am in the 12th week of my GSoC coding period. This means this is the last week of work and we need to gear up for the final submissions. It really hurts me to say that those cherished moments I lived through the whole summer are now part of the past, and I would like to pen down my every thought, emotion, learning, and experience in this blog post. My emotions have been all over the project board and I haven't really wanted to do away with them. Especially after spending 11 weeks of my summer looking at it and jotting down what work to take up next. For this is going to be huge if not long, I'll break it up into three parts, morning, noon and the evening (I won't call it night because it just doesn't sound good :)) each portion justifying the learnings I acquired for the whole length of the program.
