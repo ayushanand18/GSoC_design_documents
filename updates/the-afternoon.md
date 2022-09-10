@@ -1,5 +1,8 @@
 ## The Afternoon
 
+> Published on Medium.com [here](https://medium.com/@theayushanand/my-experience-of-gsoc-2022-with-ioos-part-2-1496061f9880)
+
+
 > If you have come untill here with me then I must thank you. Thank you for bearing with me and reading this blog from a very boring man! Or if you have come straight here without reading [the morning](./what-gsoc-taught-me-the-morning.md), then you must give it a read.
 
 The clock is now ticking afternoon. It's time for us to time travel back to May 20th. 
